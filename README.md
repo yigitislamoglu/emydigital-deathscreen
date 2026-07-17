@@ -224,4 +224,4 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE).
 
 ## Credits
 
-**Developed by [EMY Digital](https://github.com/yigitislamoglu)**
+**Developed by ❤️ [EMY Digital](https://discord.gg/emydigital)**

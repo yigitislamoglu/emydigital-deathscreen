@@ -1,0 +1,23 @@
+# Dependencies / tooling
+web/node_modules/
+**/node_modules/
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Local env
+.env
+.env.*
+
+# Keep web/dist in the repo so FiveM users can install without building
+# web/dist/

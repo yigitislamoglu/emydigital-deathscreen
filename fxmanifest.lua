@@ -4,7 +4,7 @@ game 'gta5'
 name 'emydigital-deathscreen'
 author 'EMY Digital'
 description 'EMY Digital Death Screen V1'
-version '1.0.0'
+version '1.0.1'
 
 lua54 'yes'
 

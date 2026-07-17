@@ -1,6 +1,6 @@
 # EMY Digital Death Screen V1 — Premium FiveM Death UI
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)
 ![FiveM](https://img.shields.io/badge/platform-FiveM-orange.svg)
 ![Framework](https://img.shields.io/badge/framework-QB%20%2F%20Qbox%20%2F%20ESX%20%2F%20Standalone-purple.svg)
 ![Language](https://img.shields.io/badge/language-English-green.svg)
